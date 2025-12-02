@@ -1,0 +1,12 @@
+2025-12-02 10:00:00.123 [INFO] main - Application started successfully.
+2025-12-02 10:05:30.456 [INFO] user_service - User 'testuser' logged in from IP: 192.168.1.10.
+2025-12-02 10:15:45.789 [WARN] db_connection - Database connection slow (took 1200ms).
+2025-12-02 10:20:10.012 [INFO] scheduler - Scheduled task 'data_cleanup' started.
+2025-12-02 10:20:15.345 [ERROR] file_manager - File not found: 'config.xml'.
+2025-12-02 10:25:50.678 [WARN] auth_service - Failed login attempt: user 'admin', potential brute force from IP: 10.0.0.5.
+2025-12-02 10:30:00.901 [INFO] main - User session 'sess123' invalidated due to timeout.
+2025-12-02 10:35:25.234 [ERROR] db_connection - Database connection failed (Timeout) during critical operation.
+2025-12-02 10:40:00.567 [WARN] system_monitor - Disk space usage at 85%. Consider cleaning up old files.
+2025-12-02 10:45:10.890 [INFO] scheduler - Scheduled task 'data_cleanup' finished successfully.
+
+
