@@ -1,0 +1,20 @@
+1. Created the central repository 
+2. Clone the repository to the local machine
+3. Worked on First task and added, commited, and pushed to the central repository
+4. Worked on Second task to created Dockerfile and user related scripts 
+5. Second task  added, commited, and pushed to the central repository 
+
+How to run the script of tasks_1
+1. Running the first script :  ./log_checker.sh example.log
+
+Running the tasks_2
+1. Creating the docker image:  docker build -t pythonbase-3.2 .
+2. Creating the Conatiner  :   docker run --rm pythonbase-3.2
+
+Tools used:
+AWS cloud platform
+Linux OS
+Git for version control
+Installed Docker on linux server
+
+
