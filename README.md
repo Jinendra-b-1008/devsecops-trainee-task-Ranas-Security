@@ -7,7 +7,7 @@
 ### Task 1 : Log File Analysis 
 
 **Objective**
-	Create a Bash script that:
+ ```Create a Bash script that:
 	Accepts a log file as an argument
 	Counts the Total number of lines
 	Number of lines containing INFO, WARN, ERROR 
@@ -33,7 +33,7 @@ f. Run the script by passing the log file as an argument:
     Total lines: 12
     INFO lines : 5
     WARN lines : 3
-    ERROR lines: 2
+    ERROR lines: 2 ```
 
 **Task-2 : Environment Information Script, Dockerfile creation and execution**
 - Solution Approach:
